@@ -1,3 +1,4 @@
+require "bluth_quotes/version"
 require 'bluth_quotes/episodes/all'
 
 module BluthQuotes  

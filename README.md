@@ -1,7 +1,12 @@
 # BluthQuotes
-the best quotes from Arrested Development's Bluth family
 
-# Examples
+The best quotes from Arrested Development's Bluth family
+
+## Installation
+
+    $ gem install bluth_quotes
+
+## Usage
 
     >> require 'bluth_quotes'
     >> quote = BluthQuotes.random_from "George Michael"
